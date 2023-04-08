@@ -6,6 +6,7 @@ public abstract class Account {
 	private int balance;
 	public static final int interestRate = 10;
 
+	//balance amount
 	public int getBalance() {
 		return balance;
 	}
